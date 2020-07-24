@@ -1,0 +1,74 @@
+h1 {
+color:red;
+font-size:44px;
+}
+
+#navigation{
+    background-color: #6f8ca3;
+    color: #fff;
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    width: 500px;
+    height: 30px;
+}
+
+#navigation a:link{
+    color: #fff;
+    text-decoration: none;
+}
+#navigation a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+#navigation a:hover{
+    color:#273f71;
+    text-decoration: underline;
+}
+#navigation a:active{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+#header{
+    width: 400px;
+    height: 50px;
+    background-color: red;
+    font-size: 22px;
+    color: #fff
+}
+#content{
+    width: 300px;
+    height: 150px;
+    background-color: blue;
+    font-size: 22px;
+    color: #fff
+    float:left;
+}
+#sidebar{
+    width: 100px;
+    height: 150px;
+    background-color: green;
+    font-size: 22px;
+    color: #fff
+    float:left;
+}
+#footer{
+    width: 400px;
+    height: 30px;
+    background-color: yellow;
+    font-size: 16px;
+    color: #000
+    clear:left;
+}
+
+
+
+
+#head{
+    width: 600px;
+    height: 100px;
+    padding: 10px;
+    background-color: red;
+}
